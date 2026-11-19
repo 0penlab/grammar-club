@@ -61,3 +61,23 @@ typings/
 .next
 
 docs/.vuepress/github
+
+
+# Obsidian workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache
+.obsidian/cache/
+
+# Trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
