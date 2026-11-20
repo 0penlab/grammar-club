@@ -180,11 +180,11 @@
 
 #### 请选出最适当的答案填入空格内，以使句子完整。
 
-<Test q="1. The carpenter repaired __." :c="['the table\'s legs','table\'s legs','legs of the table','the legs of the table']" a="(D)">所有格有两种表示方式：人与其他生物可用 's 的形式，无生物则用 of... 的介系词短语形式来表示。本题的 table 是无生物，故只能从 C 和 D 之间选择。因为有 of the table 修饰前面的 legs，表示出来是“哪些”脚，所以要有定冠词 the。</Test>
+<Test q="1. The carpenter repaired __." :c="['the table\'s legs','table\'s legs','legs of the table','the legs of the table']" a="(D)">==所有格有两种表示方式：人与其他生物可用 's 的形式，无生物则用 of... 的介系词短语形式来表示。==本题的 table 是无生物，故只能从 C 和 D 之间选择。因为有 of the table 修饰前面的 legs，表示出来是“哪些”脚，所以要有定冠词 the。</Test>
 
 <Test q="2. Mr. Smith has three __ under his name." :c="['shoe stores','shoes stores','shoe store','shoestores']" a="(A)">复合名词，前面的 shoe 放在形容词位置，只能用单数。后面的 store 要用复数，因为有限定词 three。D 的 shoestores 是错误拼法，两个词不能连起来。</Test>
 
-<Test q="3. The house sits on a __ road." :c="['twelve feet in width','of twelve feet','twelve-foot-wide','twelve-feet']" a="(C)">冠词（a）与名词（road）之间是形容词位置，而且只能放单词，不能放短语，故从 C 和 D 来选。既然是形容词，没有复数可言，故排除掉 D。</Test>
+<Test q="3. The house sits on a __ road." :c="['twelve feet in width','of twelve feet','twelve-foot-wide','twelve-feet']" a="(C)">==冠词（a）与名词（road）之间是形容词位置，而且只能放单词，不能放短语==，故从 C 和 D 来选。既然是形容词，没有复数可言，故排除掉 D。</Test>
 
 <Test q="4. These men and women are all __." :c="['language\'s teachers','languages teachers','language teachers','languages\' teachers']" a="(C)">“语言教师”是复合名词，故由 B 和 C 之间来选。前面 language 的位置是形容词位置，没有复数，故选 C。</Test>
 
